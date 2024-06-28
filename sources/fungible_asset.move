@@ -7,7 +7,7 @@ module aptos_asset::fungible_asset{
     use std::signer;
     use std::string::utf8;
     use std::option;
-
+  ckjsdnsdk
     /// Only fungible asset metadata owner can make changes.
     const ENOT_OWNER: u64 = 1;
 
